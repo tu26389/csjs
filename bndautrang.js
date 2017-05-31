@@ -1,5 +1,5 @@
 //please contact me giaiphapthuonghieu.org@gmail.com
-//website http://giaiphapthuonghieu.vn or http://faceseo.vn
+//website http://tragoppiaggio.vn or http://tragoppiaggio.vn
 
 (function(JQuery) {
     JQuery.fn.linhnguyen = function(options) {        
@@ -117,7 +117,7 @@ jQuery(window).load(function() {
 			jQuery(divpopup).attr('id', 'myModal');
 			jQuery(divpopup).attr('class', 'linhnguyen-modal');
 			jQuery( "body" ).append(divpopup);
-			jQuery("#myModal").html("<a href='http://bit.ly/2r37SFT' target='_blank'><img src='http://faceseo.vn/bannerweb/hoc-seo-chuyen-sau.jpg' width='500px'/><br/>Học SEO chuyên sâu</a>. Học tại nhà CEO Faceseo. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			jQuery("#myModal").html("<a href='http://tragoppiaggio.vn' target='_blank'><img src='http://faceseo.vn/bannerweb/hoc-seo-chuyen-sau.jpg' width='500px'/><br/>Học SEO chuyên sâu</a>. Học tại nhà CEO Faceseo. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			jQuery('#myModal').linhnguyen(jQuery('#myModal').data());
 		}
 });
